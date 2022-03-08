@@ -25,6 +25,12 @@ This code is by far not the prettiest or the best but it was only something whic
 
 With more time, I would have probably written some better code and probably made it more usable and maintainable.
 
+<br/>
+
+Try it out [here](https://sql-query-builder.vercel.app)
+
+Or if you like to make life difficult and copy and paste the URL: `https://sql-query-builder.vercel.app`
+
 ### Built With
 
 -   [React.JS](https://reactjs.org)
