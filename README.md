@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h2 align="center">Query Builder</h2>
+  <h3 align="center">Query Builder</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -16,7 +16,7 @@
 
 ## About The Project
 
-[![Screen Shot][product-screenshot]](https://getsocially.app)
+![Screen Shot][product-screenshot]
 
 This is a small little application I made to make our University Project easier. In our databases unit, we needed to write lots of insert queries so I made an app which takes a CSV file uploaded, parses it and truncates it and creates the insert statements from the data.
 
